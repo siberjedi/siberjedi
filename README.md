@@ -1,9 +1,9 @@
 # Hi, I'm SiberJedi 👋
 
 🎮 **Unity / C# Game Developer**  
-📱 Mobile Games | IAP & AdMob | AI & Automation
+🤖 **AI Tools & Automation**
 
-I’m an independent Unity developer focused on building and shipping mobile games.
+I’m an independent developer building and shipping games, AI-powered development tools, and automation pipelines.
 
 ### 🎮 Published Games
 
@@ -11,9 +11,9 @@ I’m an independent Unity developer focused on building and shipping mobile gam
 - **Keycap Kingdom** — Collection / Merge Game
 - **Daki In Space** — Mobile Arcade Game
 
-### 🛠️ What I Do
+### 🛠️ Unity & Game Development
 
-- Unity 2D / 3D development
+- Unity 2D / 3D
 - C# gameplay & systems
 - UI, inventory, shop & economy
 - IAP & AdMob integration
@@ -23,11 +23,27 @@ I’m an independent Unity developer focused on building and shipping mobile gam
 
 ### 🤖 AI & Tooling
 
-I also build AI-powered development tools and automation pipelines using Python, FastAPI, local AI models, Blender and Unity.
+I build local AI tools and automated pipelines for development:
+
+- AI image generation
+- Image-to-3D mesh generation
+- PBR texture generation
+- Speech-to-text
+- Unity + AI / MCP tooling
+- Python, FastAPI, Gradio and local AI workflows
 
 ### 🔧 Tech Stack
 
-`Unity` `C#` `Python` `Git` `GitHub` `Blender` `FastAPI` `Addressables` `Localization`
+`Unity` `C#` `Python` `JavaScript` `Git` `Blender` `FastAPI` `Gradio` `Addressables` `Localization` `MCP`
+
+### 🚀 Selected Projects
+
+- **Neon Image Studio** — Local AI image-generation pipeline
+- **Neon 3D Mesh Studio** — Image-to-3D mesh generation
+- **Neon Texture Studio** — PBR texture generation pipeline
+- **Zen Genie Code** — Trading research & backtesting framework
+- **Planla** — Offline school timetable generator
+- **Whisper WebUI** — Local speech-to-text web UI
 
 ### 🔗 Links
 
